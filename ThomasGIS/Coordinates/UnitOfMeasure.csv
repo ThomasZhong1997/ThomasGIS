@@ -1,0 +1,93 @@
+1024|(bin),Scale,1.0,1.0
+1025|millimetre,Metre,1.0,1000.0
+1026|metre per second,Metre,1.0,1.0
+1027|millimetres per year,Metre,1.0,31556925445.0
+1028|parts per billion,Scale,1.0,1000000000.0
+1030|parts per billion per year,Scale,1.0,3.1556925445e+16
+1031|milliarc-second,Degree,3.14159265358979,648000000.0
+1032|milliarc-seconds per year,Degree,3.14159265358979,2.044888768836e+16
+1033|centimetre,Metre,1.0,100.0
+1034|centimetres per year,Metre,1.0,3155692544.5
+1035|radian per second,Degree,1.0,1.0
+1036|unity per second,Scale,1.0,1.0
+1040|second,Second,1.0,1.0
+1041|parts per million per year,Scale,1.0,31556925445000.0
+1042|metres per year,Metre,1.0,31556925.445
+1043|arc-seconds per year,Degree,3.14159265358979,20448887688360.0
+9001|metre,Metre,1.0,1.0
+9002|foot,Metre,0.3048,1.0
+9003|US survey foot,Metre,12.0,39.37
+9005|Clarke's foot,Metre,0.3047972654,1.0
+9014|fathom,Metre,1.8288,1.0
+9030|nautical mile,Metre,1852.0,1.0
+9031|German legal metre,Metre,1.0000135965,1.0
+9033|US survey chain,Metre,792.0,39.37
+9034|US survey link,Metre,7.92,39.37
+9035|US survey mile,Metre,63360.0,39.37
+9036|kilometre,Metre,1000.0,1.0
+9037|Clarke's yard,Metre,0.9143917962,1.0
+9038|Clarke's chain,Metre,20.1166195164,1.0
+9039|Clarke's link,Metre,0.201166195164,1.0
+9040|British yard (Sears 1922),Metre,36.0,39.370147
+9041|British foot (Sears 1922),Metre,12.0,39.370147
+9042|British chain (Sears 1922),Metre,792.0,39.370147
+9043|British link (Sears 1922),Metre,7.92,39.370147
+9050|British yard (Benoit 1895 A),Metre,0.9143992,1.0
+9051|British foot (Benoit 1895 A),Metre,0.9143992,3.0
+9052|British chain (Benoit 1895 A),Metre,20.1167824,1.0
+9053|British link (Benoit 1895 A),Metre,0.201167824,1.0
+9060|British yard (Benoit 1895 B),Metre,36.0,39.370113
+9061|British foot (Benoit 1895 B),Metre,12.0,39.370113
+9062|British chain (Benoit 1895 B),Metre,792.0,39.370113
+9063|British link (Benoit 1895 B),Metre,7.92,39.370113
+9070|British foot (1865),Metre,0.9144025,3.0
+9080|Indian foot,Metre,12.0,39.370142
+9081|Indian foot (1937),Metre,0.30479841,1.0
+9082|Indian foot (1962),Metre,0.3047996,1.0
+9083|Indian foot (1975),Metre,0.3047995,1.0
+9084|Indian yard,Metre,36.0,39.370142
+9085|Indian yard (1937),Metre,0.91439523,1.0
+9086|Indian yard (1962),Metre,0.9143988,1.0
+9087|Indian yard (1975),Metre,0.9143985,1.0
+9093|Statute mile,Metre,1609.344,1.0
+9094|Gold Coast foot,Metre,6378300.0,20926201.0
+9096|yard,Metre,0.9144,1.0
+9097|chain,Metre,20.1168,1.0
+9098|link,Metre,20.1168,100.0
+9099|British yard (Sears 1922 truncated),Metre,0.914398,1.0
+9101|radian,Degree,1.0,1.0
+9102|degree,Degree,3.14159265358979,180.0
+9103|arc-minute,Degree,3.14159265358979,10800.0
+9104|arc-second,Degree,3.14159265358979,648000.0
+9105|grad,Degree,3.14159265358979,200.0
+9106|gon,Degree,3.14159265358979,200.0
+9107|degree minute second,Degree,0,0
+9108|degree minute second hemisphere,Degree,0,0
+9109|microradian,Degree,1.0,1000000.0
+9110|sexagesimal DMS,Degree,0,0
+9111|sexagesimal DM,Degree,0,0
+9112|centesimal minute,Degree,3.14159265358979,20000.0
+9113|centesimal second,Degree,3.14159265358979,2000000.0
+9114|mil_6400,Degree,3.14159265358979,3200.0
+9115|degree minute,Degree,0,0
+9116|degree hemisphere,Degree,0,0
+9117|hemisphere degree,Degree,0,0
+9118|degree minute hemisphere,Degree,0,0
+9119|hemisphere degree minute,Degree,0,0
+9120|hemisphere degree minute second,Degree,0,0
+9121|sexagesimal DMS.s,Degree,0,0
+9122|degree (supplier to define representation),Degree,3.14159265358979,180.0
+9201|unity,Scale,1.0,1.0
+9202|parts per million,Scale,1.0,1000000.0
+9203|coefficient,Scale,1.0,1.0
+9204|Bin width 330 US survey feet,Metre,3960.0,39.37
+9205|Bin width 165 US survey feet,Metre,1980.0,39.37
+9206|Bin width 82.5 US survey feet,Metre,990.0,39.37
+9207|Bin width 37.5 metres,Metre,37.5,1.0
+9208|Bin width 25 metres,Metre,25.0,1.0
+9209|Bin width 12.5 metres,Metre,12.5,1.0
+9210|Bin width 6.25 metres,Metre,6.25,1.0
+9211|Bin width 3.125 metres,Metre,3.125,1.0
+9300|British foot (Sears 1922 truncated),Metre,0.914398,3.0
+9301|British chain (Sears 1922 truncated),Metre,20.116756,1.0
+9302|British link (Sears 1922 truncated),Metre,20.116756,100.0

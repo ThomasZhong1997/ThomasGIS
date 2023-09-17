@@ -1,0 +1,829 @@
+1024|Hungarian Datum 1909,geodetic,7004,8901
+1025|Taiwan Datum 1967,geodetic,7050,8901
+1026|Taiwan Datum 1997,geodetic,7019,8901
+1027|EGM2008 geoid,vertical,0,0
+1028|Fao 1979,vertical,0,0
+1029|Iraqi Geospatial Reference System,geodetic,7019,8901
+1030|N2000,vertical,0,0
+1031|MGI 1901,geodetic,7004,8901
+1032|MOLDREF99,geodetic,7019,8901
+1033|Reseau Geodesique de la RDC 2005,geodetic,7019,8901
+1034|Serbian Reference Network 1998,geodetic,7019,8901
+1035|Red Geodesica de Canarias 1995,geodetic,7019,8901
+1036|Reseau Geodesique de Mayotte 2004,geodetic,7019,8901
+1037|Cadastre 1997,geodetic,7022,8901
+1038|Reseau Geodesique de Saint Pierre et Miquelon 2006,geodetic,7019,8901
+1039|New Zealand Vertical Datum 2009,vertical,0,0
+1040|Dunedin-Bluff 1960,vertical,0,0
+1041|Autonomous Regions of Portugal 2008,geodetic,7019,8901
+1042|Mexico ITRF92,geodetic,7019,8901
+1043|China 2000,geodetic,1024,8901
+1044|Sao Tome,geodetic,7022,8901
+1045|New Beijing,geodetic,7024,8901
+1046|Principe,geodetic,7022,8901
+1047|Reseau de Reference des Antilles Francaises 1991,geodetic,7019,8901
+1048|Tokyo 1892,geodetic,7004,8901
+1049|Incheon,vertical,0,0
+1050|Trieste,vertical,0,0
+1051|Genoa,vertical,0,0
+1052|System of the Unified Trigonometrical Cadastral Network/05,geodetic,7004,8901
+1053|Sri Lanka Datum 1999,geodetic,7015,8901
+1054|Sri Lanka Vertical Datum,vertical,0,0
+1055|System of the Unified Trigonometrical Cadastral Network/05 (Ferro),geodetic,7004,8909
+1056|Geocentric Datum Brunei Darussalam 2009,geodetic,7019,8901
+1057|Turkish National Reference Frame,geodetic,7019,8901
+1058|Bhutan National Geodetic Datum,geodetic,7019,8901
+1059|Faroe Islands Vertical Reference 2009,vertical,0,0
+1060|Islands Net 2004,geodetic,7019,8901
+1061|International Terrestrial Reference Frame 2008,dynamic geodetic,7019,8901
+1062|Posiciones Geodesicas Argentinas 2007,geodetic,7030,8901
+1063|Marco Geodesico Nacional de Bolivia,geodetic,7019,8901
+1064|SIRGAS-Chile realization 1 epoch 2002,geodetic,7019,8901
+1065|Costa Rica 2005,geodetic,7030,8901
+1066|Sistema Geodesico Nacional de Panama MACARIO SOLIS,geodetic,7019,8901
+1067|Peru96,geodetic,7019,8901
+1068|SIRGAS-ROU98,geodetic,7030,8901
+1069|SIRGAS_ES2007.8,geodetic,7019,8901
+1070|Ocotepeque 1935,geodetic,7008,8901
+1071|Sibun Gorge 1922,geodetic,7007,8901
+1072|Panama-Colon 1911,geodetic,7008,8901
+1073|Reseau Geodesique des Antilles Francaises 2009,geodetic,7019,8901
+1074|Corrego Alegre 1961,geodetic,7022,8901
+1075|South American Datum 1969(96),geodetic,7050,8901
+1076|Papua New Guinea Geodetic Datum 1994,geodetic,7019,8901
+1077|Ukraine 2000,geodetic,7024,8901
+1078|Fehmarnbelt Datum 2010,geodetic,7019,8901
+1079|Fehmarnbelt Vertical Reference 2010,vertical,0,0
+1080|Lowest Astronomical Tide,vertical,0,0
+1081|Deutsche Bahn Reference System,geodetic,7004,8901
+1082|Highest Astronomical Tide,vertical,0,0
+1083|Lower Low Water Large Tide,vertical,0,0
+1084|Higher High Water Large Tide,vertical,0,0
+1085|Indian Spring Low Water,vertical,0,0
+1086|Mean Lower Low Water Spring Tides,vertical,0,0
+1087|Mean Low Water Spring Tides,vertical,0,0
+1088|Mean High Water Spring Tides,vertical,0,0
+1089|Mean Lower Low Water,vertical,0,0
+1090|Mean Higher High Water,vertical,0,0
+1091|Mean Low Water,vertical,0,0
+1092|Mean High Water,vertical,0,0
+1093|Low Water,vertical,0,0
+1094|High Water,vertical,0,0
+1095|Tonga Geodetic Datum 2005,geodetic,7019,8901
+1096|Norway Normal Null 2000,vertical,0,0
+1097|Grand Cayman Vertical Datum 1954,vertical,0,0
+1098|Little Cayman Vertical Datum 1961,vertical,0,0
+1099|Cayman Brac Vertical Datum 1961,vertical,0,0
+1100|Cayman Islands Geodetic Datum 2011,geodetic,7019,8901
+1101|Cais da Pontinha - Funchal,vertical,0,0
+1102|Cais da Vila - Porto Santo,vertical,0,0
+1103|Cais das Velas,vertical,0,0
+1104|Horta,vertical,0,0
+1105|Cais da Madalena,vertical,0,0
+1106|Santa Cruz da Graciosa,vertical,0,0
+1107|Cais da Figueirinha - Angra do Heroismo,vertical,0,0
+1108|Santa Cruz das Flores,vertical,0,0
+1109|Cais da Vila do Porto,vertical,0,0
+1110|Ponta Delgada,vertical,0,0
+1111|Nepal 1981,geodetic,7015,8901
+1112|Cyprus Geodetic Reference System 1993,geodetic,7030,8901
+1113|Reseau Geodesique des Terres Australes et Antarctiques Francaises 2007,geodetic,7019,8901
+1114|Israeli Geodetic Datum 2005,geodetic,7030,8901
+1115|Israeli Geodetic Datum 2005(2012),geodetic,7030,8901
+1116|NAD83 (National Spatial Reference System 2011),geodetic,7019,8901
+1117|NAD83 (National Spatial Reference System PA11),geodetic,7019,8901
+1118|NAD83 (National Spatial Reference System MA11),geodetic,7019,8901
+1119|Northern Marianas Vertical Datum of 2003,vertical,0,0
+1120|Mexico ITRF2008,geodetic,7019,8901
+1121|Tutuila Vertical Datum of 1962,vertical,0,0
+1122|Guam Vertical Datum of 1963,vertical,0,0
+1123|Puerto Rico Vertical Datum of 2002,vertical,0,0
+1125|American Samoa Vertical Datum of 2002,vertical,0,0
+1126|Guam Vertical Datum of 2004,vertical,0,0
+1127|Canadian Geodetic Vertical Datum of 2013 (CGG2013),vertical,0,0
+1128|Japanese Geodetic Datum 2011,geodetic,7019,8901
+1129|Japanese Standard Levelling Datum 1972,vertical,0,0
+1130|Japanese Geodetic Datum 2000 (vertical),vertical,0,0
+1131|Japanese Geodetic Datum 2011 (vertical),vertical,0,0
+1132|Rete Dinamica Nazionale 2008,geodetic,7019,8901
+1133|NAD83 (Continuously Operating Reference Station 1996),geodetic,7019,8901
+1134|Christmas Island Datum 1985,engineering,0,0
+1135|Aden 1925,geodetic,7012,8901
+1136|Bioko,geodetic,7022,8901
+1137|Bekaa Valley 1920,geodetic,7012,8901
+1138|South East Island 1943,geodetic,7012,8901
+1139|Gambia,geodetic,7012,8901
+1140|Singapore Height Datum,vertical,0,0
+1141|IGS08,dynamic geodetic,7019,8901
+1142|IG05 Intermediate Datum,geodetic,7019,8901
+1143|Israeli Geodetic Datum 2005,geodetic,7019,8901
+1144|IG05/12 Intermediate Datum,geodetic,7019,8901
+1145|Israeli Geodetic Datum 2005(2012),geodetic,7019,8901
+1146|Ras Ghumays,vertical,0,0
+1147|Oman National Geodetic Datum 2014,geodetic,7019,8901
+1148|Famagusta 1960,vertical,0,0
+1149|PNG08,vertical,0,0
+1150|Kumul 34,vertical,0,0
+1151|Kiunga,vertical,0,0
+1152|World Geodetic System 1984 (G730),dynamic geodetic,7030,8901
+1153|World Geodetic System 1984 (G873),dynamic geodetic,7030,8901
+1154|World Geodetic System 1984 (G1150),dynamic geodetic,7030,8901
+1155|World Geodetic System 1984 (G1674),dynamic geodetic,7030,8901
+1156|World Geodetic System 1984 (G1762),dynamic geodetic,7030,8901
+1157|Parametry Zemli 1990.02,dynamic geodetic,7054,8901
+1158|Parametry Zemli 1990.11,dynamic geodetic,7054,8901
+1159|Geodezicheskaya Sistema Koordinat 2011,geodetic,1025,8901
+1160|Kyrgyzstan Geodetic Datum 2006,geodetic,7019,8901
+1161|Deutsches Haupthoehennetz 1912,vertical,0,0
+1162|Latvian Height System 2000,vertical,0,0
+1163|EPSG example moving platform reference point,engineering,0,0
+1164|Ordnance Datum Newlyn (Offshore),vertical,0,0
+1165|International Terrestrial Reference Frame 2014,dynamic geodetic,7019,8901
+1166|World Geodetic System 1984 (Transit),dynamic geodetic,7030,8901
+1167|Bulgaria Geodetic System 2005,geodetic,7019,8901
+1168|Geocentric Datum of Australia 2020,geodetic,7019,8901
+1169|New Zealand Vertical Datum 2016,vertical,0,0
+1170|Deutsches Haupthoehennetz 2016,vertical,0,0
+1171|Port Moresby 1996,vertical,0,0
+1172|Port Moresby 2008,vertical,0,0
+1173|St. Helena Tritan,geodetic,7030,8901
+1174|St. Helena Geodetic Datum 2015,geodetic,7019,8901
+1175|Jamestown 1971,vertical,0,0
+1176|St. Helena Tritan Vertical Datum 2011,vertical,0,0
+1177|St. Helena Vertical Datum 2015,vertical,0,0
+1178|European Terrestrial Reference Frame 1989,geodetic,7019,8901
+1179|European Terrestrial Reference Frame 1990,geodetic,7019,8901
+1180|European Terrestrial Reference Frame 1991,geodetic,7019,8901
+1181|European Terrestrial Reference Frame 1992,geodetic,7019,8901
+1182|European Terrestrial Reference Frame 1993,geodetic,7019,8901
+1183|European Terrestrial Reference Frame 1994,geodetic,7019,8901
+1184|European Terrestrial Reference Frame 1996,geodetic,7019,8901
+1185|European Terrestrial Reference Frame 1997,geodetic,7019,8901
+1186|European Terrestrial Reference Frame 2000,geodetic,7019,8901
+1187|Islands Net 2016,geodetic,7019,8901
+1188|Gusterberg (Ferro),geodetic,1026,8909
+1189|St. Stephen (Ferro),geodetic,1026,8909
+1190|Landshaedarkerfi Islands 2004,vertical,0,0
+1191|IGS14,dynamic geodetic,7019,8901
+1192|North American Datum of 1983 (CSRS96),geodetic,7019,8901
+1193|North American Datum of 1983 (CSRS) version 2,geodetic,7019,8901
+1194|North American Datum of 1983 (CSRS) version 3,geodetic,7019,8901
+1195|North American Datum of 1983 (CSRS) version 4,geodetic,7019,8901
+1196|North American Datum of 1983 (CSRS) version 5,geodetic,7019,8901
+1197|North American Datum of 1983 (CSRS) version 6,geodetic,7019,8901
+1198|North American Datum of 1983 (CSRS) version 7,geodetic,7019,8901
+1199|Greenland  Vertical Reference 2000,vertical,0,0
+1200|Greenland Vertical Reference 2016,vertical,0,0
+1201|System of the Unified Trigonometrical Cadastral Network [JTSK03],geodetic,7004,8901
+1202|Baltic 1957,vertical,0,0
+1203|EPSG example wellbore local horizontal datum - true north,engineering,0,0
+1204|European Terrestrial Reference Frame 2005,geodetic,7019,8901
+1205|EPSG example wellbore vertical datum,vertical,0,0
+1206|European Terrestrial Reference Frame 2014,geodetic,7019,8901
+1207|Macao 1920,geodetic,7022,8901
+1208|Macao Geodetic Datum 2008,geodetic,7019,8901
+1209|Hong Kong Geodetic,geodetic,7019,8901
+1210|Macao Height Datum,vertical,0,0
+1211|NAD83 (Federal Base Network),geodetic,7019,8901
+1212|NAD83 (High Accuracy Reference Network - Corrected),geodetic,7019,8901
+1213|Helsinki 1943,vertical,0,0
+1214|Serbian Spatial Reference System 2000,geodetic,7019,8901
+1215|Slovenian Vertical System 2010,vertical,0,0
+1216|Serbian Vertical Reference System 2012,vertical,0,0
+1217|Camacupa 2015,geodetic,7012,8901
+1218|MOMRA Terrestrial Reference Frame 2000,geodetic,7019,8901
+1219|MOMRA Vertical Geodetic Control,vertical,0,0
+1220|Reference System de Angola 2013,geodetic,7019,8901
+1221|North American Datum of 1983 (MARP00),geodetic,7019,8901
+1222|EPSG example wellbore local horizontal datum - grid north,engineering,0,0
+1223|Reseau Geodesique de Wallis et Futuna 1996,geodetic,7019,8901
+1224|Taiwan Vertical Datum 2001,vertical,0,0
+1225|CR-SIRGAS,geodetic,7019,8901
+1226|Datum Altimetrico de Costa Rica 1952,vertical,0,0
+1227|SIRGAS Continuously Operating Network DGF00P01,dynamic geodetic,7019,8901
+1228|SIRGAS Continuously Operating Network DGF01P01,dynamic geodetic,7019,8901
+1229|SIRGAS Continuously Operating Network DGF01P02,dynamic geodetic,7019,8901
+1230|SIRGAS Continuously Operating Network DGF02P01,dynamic geodetic,7019,8901
+1231|SIRGAS Continuously Operating Network DGF04P01,dynamic geodetic,7019,8901
+1232|SIRGAS Continuously Operating Network DGF05P01,dynamic geodetic,7019,8901
+1233|SIRGAS Continuously Operating Network DGF06P01,dynamic geodetic,7019,8901
+1234|SIRGAS Continuously Operating Network DGF07P01,dynamic geodetic,7019,8901
+1235|SIRGAS Continuously Operating Network DGF08P01,dynamic geodetic,7019,8901
+1236|SIRGAS Continuously Operating Network SIR09P01,dynamic geodetic,7019,8901
+1237|SIRGAS Continuously Operating Network SIR10P01,dynamic geodetic,7019,8901
+1238|SIRGAS Continuously Operating Network SIR11P01,dynamic geodetic,7019,8901
+1239|SIRGAS Continuously Operating Network SIR13P01,dynamic geodetic,7019,8901
+1240|SIRGAS Continuously Operating Network SIR14P01,dynamic geodetic,7019,8901
+1241|SIRGAS Continuously Operating Network SIR15P01,dynamic geodetic,7019,8901
+1242|SIRGAS Continuously Operating Network SIR17P01,dynamic geodetic,7019,8901
+1243|SIRGAS-Chile realization 2 epoch 2010,geodetic,7019,8901
+1244|IGS97,dynamic geodetic,7019,8901
+1245|IGS00,dynamic geodetic,7019,8901
+1246|IGb00,dynamic geodetic,7019,8901
+1247|IGS05,dynamic geodetic,7019,8901
+1248|IGb08,dynamic geodetic,7019,8901
+1249|North American Datum of 1983 (PACP00),geodetic,7019,8901
+1250|IGN 2008 LD,vertical,0,0
+1251|Kosovo Reference System 2001,geodetic,7019,8901
+1252|SIRGAS-Chile realization 3 epoch 2013,geodetic,7019,8901
+1253|SIRGAS-Chile realization 4 epoch 2016,geodetic,7019,8901
+1254|SIRGAS-Chile,geodetic,7019,8901
+1255|Nivellement General de Nouvelle Caledonie 2008,vertical,0,0
+1256|Canadian Geodetic Vertical Datum of 2013 (CGG2013a),vertical,0,0
+1257|Tapi Aike,geodetic,7022,8901
+1258|Ministerio de Marina Norte,geodetic,7022,8901
+1259|Ministerio de Marina Sur,geodetic,7022,8901
+1260|Sistema de Referencia Vertical Nacional 2016,vertical,0,0
+1261|European Vertical Reference Frame 2000 Austria,vertical,0,0
+1262|South Africa Land Levelling Datum,vertical,0,0
+1263|Oman National Geodetic Datum 2017,geodetic,7019,8901
+1264|HS2 Intermediate Reference Frame,geodetic,7019,8901
+1265|HS2 Vertical Reference Frame,vertical,0,0
+1266|TPEN11 Intermediate Reference Frame,geodetic,7019,8901
+1267|Wiener Null,vertical,0,0
+1268|Kingdom of Saudi Arabia Geodetic Reference Frame 2017,geodetic,7019,8901
+1269|Kingdom of Saudi Arabia Vertical Reference Frame Jeddah 2014,vertical,0,0
+1270|Mean Sea Level Netherlands,vertical,0,0
+1271|MML07 Intermediate Reference Frame,geodetic,7019,8901
+1272|IGb14,dynamic geodetic,7019,8901
+1273|AbInvA96_2020 Intermediate Reference Frame,geodetic,7019,8901
+1274|European Vertical Reference Frame 2019,vertical,0,0
+1275|Mallorca,vertical,0,0
+1276|Menorca,vertical,0,0
+1277|Ibiza,vertical,0,0
+1278|Lanzarote,vertical,0,0
+1279|Fuerteventura,vertical,0,0
+1280|Gran Canaria,vertical,0,0
+1281|Tenerife,vertical,0,0
+1282|La Gomera,vertical,0,0
+1283|La Palma,vertical,0,0
+1284|El Hierro,vertical,0,0
+1285|Ceuta 2,vertical,0,0
+1286|Pico de las Nieves 1968,geodetic,7022,8901
+1287|European Vertical Reference Frame 2019 mean tide,vertical,0,0
+1288|British Isles height ensemble,ensemble,0,0
+1289|GBK19 Intermediate Reference Frame,geodetic,7019,8901
+1290|Lowest Astronomical Tide Netherlands,vertical,0,0
+1291|Australian Terrestrial Reference Frame 2014,dynamic geodetic,7019,8901
+1292|Australian Vertical Working Surface,vertical,0,0
+1293|Sistem Referensi Geospasial Indonesia 2013,dynamic geodetic,7030,8901
+1294|Indonesian Geoid 2020,vertical,0,0
+5100|Mean Sea Level,vertical,0,0
+5101|Ordnance Datum Newlyn,vertical,0,0
+5102|National Geodetic Vertical Datum 1929,vertical,0,0
+5103|North American Vertical Datum 1988,vertical,0,0
+5104|Yellow Sea 1956,vertical,0,0
+5105|Baltic 1977,vertical,0,0
+5106|Caspian Sea,vertical,0,0
+5107|Nivellement general de la France,vertical,0,0
+5109|Normaal Amsterdams Peil,vertical,0,0
+5110|Ostend,vertical,0,0
+5111|Australian Height Datum,vertical,0,0
+5112|Australian Height Datum (Tasmania),vertical,0,0
+5113|Instantaneous Water Level,vertical,0,0
+5114|Canadian Geodetic Vertical Datum of 1928,vertical,0,0
+5115|Piraeus Harbour 1986,vertical,0,0
+5116|Helsinki 1960,vertical,0,0
+5117|Rikets hojdsystem 1970,vertical,0,0
+5118|Nivellement General de la France - Lallemand,vertical,0,0
+5119|Nivellement General de la France - IGN69,vertical,0,0
+5120|Nivellement General de la France - IGN78,vertical,0,0
+5121|Maputo,vertical,0,0
+5122|Japanese Standard Levelling Datum 1969,vertical,0,0
+5123|PDO Height Datum 1993,vertical,0,0
+5124|Fahud Height Datum,vertical,0,0
+5125|Ha Tien 1960,vertical,0,0
+5126|Hon Dau 1992,vertical,0,0
+5127|Landesnivellement 1902,vertical,0,0
+5128|Landeshohennetz 1995,vertical,0,0
+5129|European Vertical Reference Frame 2000,vertical,0,0
+5130|Malin Head,vertical,0,0
+5131|Belfast Lough,vertical,0,0
+5132|Dansk Normal Nul,vertical,0,0
+5133|AIOC 1995,vertical,0,0
+5134|Black Sea,vertical,0,0
+5135|Hong Kong Principal Datum,vertical,0,0
+5136|Hong Kong Chart Datum,vertical,0,0
+5137|Yellow Sea 1985,vertical,0,0
+5138|Ordnance Datum Newlyn (Orkney Isles),vertical,0,0
+5139|Fair Isle,vertical,0,0
+5140|Lerwick,vertical,0,0
+5141|Foula,vertical,0,0
+5142|Sule Skerry,vertical,0,0
+5143|North Rona,vertical,0,0
+5144|Stornoway,vertical,0,0
+5145|St. Kilda,vertical,0,0
+5146|Flannan Isles,vertical,0,0
+5147|St. Marys,vertical,0,0
+5148|Douglas,vertical,0,0
+5149|Fao,vertical,0,0
+5150|Bandar Abbas,vertical,0,0
+5151|Nivellement General de Nouvelle Caledonie,vertical,0,0
+5152|Poolbeg,vertical,0,0
+5153|Nivellement General Guyanais 1977,vertical,0,0
+5154|Martinique 1987,vertical,0,0
+5155|Guadeloupe 1988,vertical,0,0
+5156|Reunion 1989,vertical,0,0
+5157|Auckland 1946,vertical,0,0
+5158|Bluff 1955,vertical,0,0
+5159|Dunedin 1958,vertical,0,0
+5160|Gisborne 1926,vertical,0,0
+5161|Lyttelton 1937,vertical,0,0
+5162|Moturiki 1953,vertical,0,0
+5163|Napier 1962,vertical,0,0
+5164|Nelson 1955,vertical,0,0
+5165|One Tree Point 1964,vertical,0,0
+5166|Tararu 1952,vertical,0,0
+5167|Taranaki 1970,vertical,0,0
+5168|Wellington 1953,vertical,0,0
+5169|Waitangi (Chatham Island) 1959,vertical,0,0
+5170|Stewart Island 1977,vertical,0,0
+5171|EGM96 geoid,vertical,0,0
+5172|Nivellement General du Luxembourg,vertical,0,0
+5173|Antalya,vertical,0,0
+5174|Norway Normal Null 1954,vertical,0,0
+5175|Durres,vertical,0,0
+5176|Gebrauchshohen ADRIA,vertical,0,0
+5177|Slovenian Vertical System 2000,vertical,0,0
+5178|Cascais,vertical,0,0
+5179|Constanta,vertical,0,0
+5180|Alicante,vertical,0,0
+5181|Deutsches Haupthoehennetz 1992,vertical,0,0
+5182|Deutsches Haupthoehennetz 1985,vertical,0,0
+5183|Staatlichen Nivellementnetzes 1976,vertical,0,0
+5184|Baltic 1982,vertical,0,0
+5185|Baltic 1980,vertical,0,0
+5186|Kuwait PWD,vertical,0,0
+5187|KOC Well Datum,vertical,0,0
+5188|KOC Construction Datum,vertical,0,0
+5189|Nivellement General de la Corse 1948,vertical,0,0
+5190|Danger 1950,vertical,0,0
+5191|Mayotte 1950,vertical,0,0
+5192|Martinique 1955,vertical,0,0
+5193|Guadeloupe 1951,vertical,0,0
+5194|Lagos 1955,vertical,0,0
+5195|Nivellement General de Polynesie Francaise,vertical,0,0
+5196|IGN 1966,vertical,0,0
+5197|Moorea SAU 1981,vertical,0,0
+5198|Raiatea SAU 2001,vertical,0,0
+5199|Maupiti SAU 2001,vertical,0,0
+5200|Huahine SAU 2001,vertical,0,0
+5201|Tahaa SAU 2001,vertical,0,0
+5202|Bora Bora SAU 2001,vertical,0,0
+5203|EGM84 geoid,vertical,0,0
+5204|International Great Lakes Datum 1955,vertical,0,0
+5205|International Great Lakes Datum 1985,vertical,0,0
+5206|Dansk Vertikal Reference 1990,vertical,0,0
+5207|Croatian Vertical Reference Datum 1971,vertical,0,0
+5208|Rikets hojdsystem 2000,vertical,0,0
+5209|Rikets hojdsystem 1900,vertical,0,0
+5210|IGN 1988 LS,vertical,0,0
+5211|IGN 1988 MG,vertical,0,0
+5212|IGN 1992 LD,vertical,0,0
+5213|IGN 1988 SB,vertical,0,0
+5214|IGN 1988 SM,vertical,0,0
+5215|European Vertical Reference Frame 2007,vertical,0,0
+6001|Not specified (based on Airy 1830 ellipsoid),geodetic,7001,8901
+6002|Not specified (based on Airy Modified 1849 ellipsoid),geodetic,7002,8901
+6003|Not specified (based on Australian National Spheroid),geodetic,7003,8901
+6004|Not specified (based on Bessel 1841 ellipsoid),geodetic,7004,8901
+6005|Not specified (based on Bessel Modified ellipsoid),geodetic,7005,8901
+6006|Not specified (based on Bessel Namibia ellipsoid),geodetic,7046,8901
+6007|Not specified (based on Clarke 1858 ellipsoid),geodetic,7007,8901
+6008|Not specified (based on Clarke 1866 ellipsoid),geodetic,7008,8901
+6009|Not specified (based on Clarke 1866 Michigan ellipsoid),geodetic,7009,8901
+6010|Not specified (based on Clarke 1880 (Benoit) ellipsoid),geodetic,7010,8901
+6011|Not specified (based on Clarke 1880 (IGN) ellipsoid),geodetic,7011,8901
+6012|Not specified (based on Clarke 1880 (RGS) ellipsoid),geodetic,7012,8901
+6013|Not specified (based on Clarke 1880 (Arc) ellipsoid),geodetic,7013,8901
+6014|Not specified (based on Clarke 1880 (SGA 1922) ellipsoid),geodetic,7014,8901
+6015|Not specified (based on Everest 1830 (1937 Adjustment) ellipsoid),geodetic,7015,8901
+6016|Not specified (based on Everest 1830 (1967 Definition) ellipsoid),geodetic,7016,8901
+6018|Not specified (based on Everest 1830 Modified ellipsoid),geodetic,7018,8901
+6019|Not specified (based on GRS 1980 ellipsoid),geodetic,7019,8901
+6020|Not specified (based on Helmert 1906 ellipsoid),geodetic,7020,8901
+6021|Not specified (based on Indonesian National Spheroid),geodetic,7021,8901
+6022|Not specified (based on International 1924 ellipsoid),geodetic,7022,8901
+6024|Not specified (based on Krassowsky 1940 ellipsoid),geodetic,7024,8901
+6025|Not specified (based on NWL 9D ellipsoid),geodetic,7025,8901
+6027|Not specified (based on Plessis 1817 ellipsoid),geodetic,7027,8901
+6028|Not specified (based on Struve 1860 ellipsoid),geodetic,7028,8901
+6029|Not specified (based on War Office ellipsoid),geodetic,7029,8901
+6030|Not specified (based on WGS 84 ellipsoid),geodetic,7030,8901
+6031|Not specified (based on GEM 10C ellipsoid),geodetic,7031,8901
+6032|Not specified (based on OSU86F ellipsoid),geodetic,7032,8901
+6033|Not specified (based on OSU91A ellipsoid),geodetic,7033,8901
+6034|Not specified (based on Clarke 1880 ellipsoid),geodetic,7034,8901
+6035|Not specified (based on Authalic Sphere),geodetic,7035,8901
+6036|Not specified (based on GRS 1967 ellipsoid),geodetic,7036,8901
+6041|Not specified (based on Average Terrestrial System 1977 ellipsoid),geodetic,7041,8901
+6042|Not specified (based on Everest (1830 Definition) ellipsoid),geodetic,7042,8901
+6043|Not specified (based on WGS 72 ellipsoid),geodetic,7043,8901
+6044|Not specified (based on Everest 1830 (1962 Definition) ellipsoid),geodetic,7044,8901
+6045|Not specified (based on Everest 1830 (1975 Definition) ellipsoid),geodetic,7045,8901
+6047|Not specified (based on GRS 1980 Authalic Sphere),geodetic,7048,8901
+6052|Not specified (based on Clarke 1866 Authalic Sphere),geodetic,7052,8901
+6053|Not specified (based on International 1924 Authalic Sphere),geodetic,7057,8901
+6054|Not specified (based on Hughes 1980 ellipsoid),geodetic,7058,8901
+6055|Popular Visualisation Datum,geodetic,7059,8901
+6120|Greek,geodetic,7004,8901
+6121|Greek Geodetic Reference System 1987,geodetic,7019,8901
+6122|Average Terrestrial System 1977,geodetic,7041,8901
+6123|Kartastokoordinaattijarjestelma (1966),geodetic,7022,8901
+6124|Rikets koordinatsystem 1990,geodetic,7004,8901
+6125|Samboja,geodetic,7004,8901
+6126|Lithuania 1994 (ETRS89),geodetic,7019,8901
+6127|Tete,geodetic,7008,8901
+6128|Madzansua,geodetic,7008,8901
+6129|Observatario,geodetic,7008,8901
+6130|Moznet (ITRF94),geodetic,7030,8901
+6131|Indian 1960,geodetic,7015,8901
+6132|Final Datum 1958,geodetic,7012,8901
+6133|Estonia 1992,geodetic,7019,8901
+6134|PDO Survey Datum 1993,geodetic,7012,8901
+6135|Old Hawaiian,geodetic,7008,8901
+6136|St. Lawrence Island,geodetic,7008,8901
+6137|St. Paul Island,geodetic,7008,8901
+6138|St. George Island,geodetic,7008,8901
+6139|Puerto Rico,geodetic,7008,8901
+6140|NAD83 Canadian Spatial Reference System,geodetic,7019,8901
+6141|Israel 1993,geodetic,7019,8901
+6142|Locodjo 1965,geodetic,7012,8901
+6143|Abidjan 1987,geodetic,7012,8901
+6144|Kalianpur 1937,geodetic,7015,8901
+6145|Kalianpur 1962,geodetic,7044,8901
+6146|Kalianpur 1975,geodetic,7045,8901
+6147|Hanoi 1972,geodetic,7024,8901
+6148|Hartebeesthoek94,geodetic,7030,8901
+6149|CH1903,geodetic,7004,8901
+6150|CH1903+,geodetic,7004,8901
+6151|Swiss Terrestrial Reference Frame 1995,geodetic,7019,8901
+6152|NAD83 (High Accuracy Reference Network),geodetic,7019,8901
+6153|Rassadiran,geodetic,7022,8901
+6154|European Datum 1950(1977),geodetic,7022,8901
+6155|Dabola 1981,geodetic,7011,8901
+6156|System of the Unified Trigonometrical Cadastral Network,geodetic,7004,8901
+6157|Mount Dillon,geodetic,7007,8901
+6158|Naparima 1955,geodetic,7022,8901
+6159|European Libyan Datum 1979,geodetic,7022,8901
+6160|Chos Malal 1914,geodetic,7022,8901
+6161|Pampa del Castillo,geodetic,7022,8901
+6162|Korean Datum 1985,geodetic,7004,8901
+6163|Yemen National Geodetic Network 1996,geodetic,7030,8901
+6164|South Yemen,geodetic,7024,8901
+6165|Bissau,geodetic,7022,8901
+6166|Korean Datum 1995,geodetic,7030,8901
+6167|New Zealand Geodetic Datum 2000,geodetic,7019,8901
+6168|Accra,geodetic,7029,8901
+6169|American Samoa 1962,geodetic,7008,8901
+6170|Sistema de Referencia Geocentrico para America del Sur 1995,geodetic,7019,8901
+6171|Reseau Geodesique Francais 1993,geodetic,7019,8901
+6172|Posiciones Geodesicas Argentinas,geodetic,7019,8901
+6173|IRENET95,geodetic,7019,8901
+6174|Sierra Leone Colony 1924,geodetic,7029,8901
+6175|Sierra Leone 1968,geodetic,7012,8901
+6176|Australian Antarctic Datum 1998,geodetic,7019,8901
+6178|Pulkovo 1942(83),geodetic,7024,8901
+6179|Pulkovo 1942(58),geodetic,7024,8901
+6180|Estonia 1997,geodetic,7019,8901
+6181|Luxembourg 1930,geodetic,7022,8901
+6182|Azores Occidental Islands 1939,geodetic,7022,8901
+6183|Azores Central Islands 1948,geodetic,7022,8901
+6184|Azores Oriental Islands 1940,geodetic,7022,8901
+6185|Madeira 1936,geodetic,7022,8901
+6188|OSNI 1952,geodetic,7001,8901
+6189|Red Geodesica Venezolana,geodetic,7019,8901
+6190|Posiciones Geodesicas Argentinas 1998,geodetic,7019,8901
+6191|Albanian 1987,geodetic,7024,8901
+6192|Douala 1948,geodetic,7022,8901
+6193|Manoca 1962,geodetic,7011,8901
+6194|Qornoq 1927,geodetic,7022,8901
+6195|Scoresbysund 1952,geodetic,7022,8901
+6196|Ammassalik 1958,geodetic,7022,8901
+6197|Garoua,geodetic,7012,8901
+6198|Kousseri,geodetic,7012,8901
+6199|Egypt 1930,geodetic,7022,8901
+6200|Pulkovo 1995,geodetic,7024,8901
+6201|Adindan,geodetic,7012,8901
+6202|Australian Geodetic Datum 1966,geodetic,7003,8901
+6203|Australian Geodetic Datum 1984,geodetic,7003,8901
+6204|Ain el Abd 1970,geodetic,7022,8901
+6205|Afgooye,geodetic,7024,8901
+6206|Agadez,geodetic,7011,8901
+6207|Lisbon 1937,geodetic,7022,8901
+6208|Aratu,geodetic,7022,8901
+6209|Arc 1950,geodetic,7013,8901
+6210|Arc 1960,geodetic,7012,8901
+6211|Batavia,geodetic,7004,8901
+6212|Barbados 1938,geodetic,7012,8901
+6213|Beduaram,geodetic,7011,8901
+6214|Beijing 1954,geodetic,7024,8901
+6215|Reseau National Belge 1950,geodetic,7022,8901
+6216|Bermuda 1957,geodetic,7008,8901
+6218|Bogota 1975,geodetic,7022,8901
+6219|Bukit Rimpah,geodetic,7004,8901
+6220|Camacupa 1948,geodetic,7012,8901
+6221|Campo Inchauspe,geodetic,7022,8901
+6222|Cape,geodetic,7013,8901
+6223|Carthage,geodetic,7011,8901
+6224|Chua,geodetic,7022,8901
+6225|Corrego Alegre 1970-72,geodetic,7022,8901
+6226|Cote d'Ivoire,geodetic,7011,8901
+6227|Deir ez Zor,geodetic,7011,8901
+6228|Douala,geodetic,7011,8901
+6229|Egypt 1907,geodetic,7020,8901
+6230|European Datum 1950,geodetic,7022,8901
+6231|European Datum 1987,geodetic,7022,8901
+6232|Fahud,geodetic,7012,8901
+6233|Gandajika 1970,geodetic,7022,8901
+6234|Garoua,geodetic,7011,8901
+6235|Guyane Francaise,geodetic,7022,8901
+6236|Hu Tzu Shan 1950,geodetic,7022,8901
+6237|Hungarian Datum 1972,geodetic,7036,8901
+6238|Indonesian Datum 1974,geodetic,7021,8901
+6239|Indian 1954,geodetic,7015,8901
+6240|Indian 1975,geodetic,7015,8901
+6241|Jamaica 1875,geodetic,7034,8901
+6242|Jamaica 1969,geodetic,7008,8901
+6243|Kalianpur 1880,geodetic,7042,8901
+6244|Kandawala,geodetic,7015,8901
+6245|Kertau 1968,geodetic,7018,8901
+6246|Kuwait Oil Company,geodetic,7012,8901
+6247|La Canoa,geodetic,7022,8901
+6248|Provisional South American Datum 1956,geodetic,7022,8901
+6249|Lake,geodetic,7022,8901
+6250|Leigon,geodetic,7012,8901
+6251|Liberia 1964,geodetic,7012,8901
+6252|Lome,geodetic,7011,8901
+6253|Luzon 1911,geodetic,7008,8901
+6254|Hito XVIII 1963,geodetic,7022,8901
+6255|Herat North,geodetic,7022,8901
+6256|Mahe 1971,geodetic,7012,8901
+6257|Makassar,geodetic,7004,8901
+6258|European Terrestrial Reference System 1989 ensemble,ensemble,0,0
+6259|Malongo 1987,geodetic,7022,8901
+6260|Manoca,geodetic,7012,8901
+6261|Merchich,geodetic,7011,8901
+6262|Massawa,geodetic,7004,8901
+6263|Minna,geodetic,7012,8901
+6264|Mhast,geodetic,7022,8901
+6265|Monte Mario,geodetic,7022,8901
+6266|M'poraloko,geodetic,7011,8901
+6267|North American Datum 1927,geodetic,7008,8901
+6268|NAD27 Michigan,geodetic,7009,8901
+6269|North American Datum 1983,geodetic,7019,8901
+6270|Nahrwan 1967,geodetic,7012,8901
+6271|Naparima 1972,geodetic,7022,8901
+6272|New Zealand Geodetic Datum 1949,geodetic,7022,8901
+6273|NGO 1948,geodetic,7005,8901
+6274|Datum 73,geodetic,7022,8901
+6275|Nouvelle Triangulation Francaise,geodetic,7011,8901
+6276|NSWC 9Z-2,geodetic,7025,8901
+6277|OSGB 1936,geodetic,7001,8901
+6278|OSGB 1970 (SN),geodetic,7001,8901
+6279|OS (SN) 1980,geodetic,7001,8901
+6280|Padang 1884,geodetic,7004,8901
+6281|Palestine 1923,geodetic,7010,8901
+6282|Congo 1960 Pointe Noire,geodetic,7011,8901
+6283|Geocentric Datum of Australia 1994,geodetic,7019,8901
+6284|Pulkovo 1942,geodetic,7024,8901
+6285|Qatar 1974,geodetic,7022,8901
+6286|Qatar 1948,geodetic,7020,8901
+6287|Qornoq,geodetic,7022,8901
+6288|Loma Quintana,geodetic,7022,8901
+6289|Amersfoort,geodetic,7004,8901
+6291|South American Datum 1969,geodetic,7036,8901
+6292|Sapper Hill 1943,geodetic,7022,8901
+6293|Schwarzeck,geodetic,7046,8901
+6294|Segora,geodetic,7004,8901
+6295|Serindung,geodetic,7004,8901
+6296|Sudan,geodetic,7011,8901
+6297|Tananarive 1925,geodetic,7022,8901
+6298|Timbalai 1948,geodetic,7016,8901
+6299|TM65,geodetic,7002,8901
+6300|Geodetic Datum of 1965,geodetic,7002,8901
+6301|Tokyo,geodetic,7004,8901
+6302|Trinidad 1903,geodetic,7007,8901
+6303|Trucial Coast 1948,geodetic,7020,8901
+6304|Voirol 1875,geodetic,7011,8901
+6306|Bern 1938,geodetic,7004,8901
+6307|Nord Sahara 1959,geodetic,7012,8901
+6308|Stockholm 1938,geodetic,7004,8901
+6309|Yacare,geodetic,7022,8901
+6310|Yoff,geodetic,7011,8901
+6311|Zanderij,geodetic,7022,8901
+6312|Militar-Geographische Institut,geodetic,7004,8901
+6313|Reseau National Belge 1972,geodetic,7022,8901
+6314|Deutsches Hauptdreiecksnetz,geodetic,7004,8901
+6315|Conakry 1905,geodetic,7011,8901
+6316|Dealul Piscului 1930,geodetic,7022,8901
+6317|Dealul Piscului 1970,geodetic,7024,8901
+6318|National Geodetic Network,geodetic,7030,8901
+6319|Kuwait Utility,geodetic,7019,8901
+6322|World Geodetic System 1972,dynamic geodetic,7043,8901
+6324|WGS 72 Transit Broadcast Ephemeris,dynamic geodetic,7043,8901
+6326|World Geodetic System 1984 ensemble,ensemble,0,0
+6600|Anguilla 1957,geodetic,7012,8901
+6601|Antigua 1943,geodetic,7012,8901
+6602|Dominica 1945,geodetic,7012,8901
+6603|Grenada 1953,geodetic,7012,8901
+6604|Montserrat 1958,geodetic,7012,8901
+6605|St. Kitts 1955,geodetic,7012,8901
+6606|St. Lucia 1955,geodetic,7012,8901
+6607|St. Vincent 1945,geodetic,7012,8901
+6608|North American Datum 1927 (1976),geodetic,7008,8901
+6609|North American Datum 1927 (CGQ77),geodetic,7008,8901
+6610|Xian 1980,geodetic,7049,8901
+6611|Hong Kong 1980,geodetic,7022,8901
+6612|Japanese Geodetic Datum 2000,geodetic,7019,8901
+6613|Gunung Segara,geodetic,7004,8901
+6614|Qatar National Datum 1995,geodetic,7022,8901
+6615|Porto Santo 1936,geodetic,7022,8901
+6616|Selvagem Grande,geodetic,7022,8901
+6618|South American Datum 1969,geodetic,7050,8901
+6619|SWEREF99,geodetic,7019,8901
+6620|Point 58,geodetic,7012,8901
+6621|Fort Marigot,geodetic,7022,8901
+6622|Guadeloupe 1948,geodetic,7022,8901
+6623|Centre Spatial Guyanais 1967,geodetic,7022,8901
+6624|Reseau Geodesique Francais Guyane 1995,geodetic,7019,8901
+6625|Martinique 1938,geodetic,7022,8901
+6626|Reunion 1947,geodetic,7022,8901
+6627|Reseau Geodesique de la Reunion 1992,geodetic,7019,8901
+6628|Tahiti 52,geodetic,7022,8901
+6629|Tahaa 54,geodetic,7022,8901
+6630|IGN72 Nuku Hiva,geodetic,7022,8901
+6631|K0 1949,geodetic,7022,8901
+6632|Combani 1950,geodetic,7022,8901
+6633|IGN56 Lifou,geodetic,7022,8901
+6634|IGN72 Grande Terre,geodetic,7022,8901
+6635|ST87 Ouvea,geodetic,7022,8901
+6636|Petrels 1972,geodetic,7022,8901
+6637|Pointe Geologie Perroud 1950,geodetic,7022,8901
+6638|Saint Pierre et Miquelon 1950,geodetic,7008,8901
+6639|MOP78,geodetic,7022,8901
+6640|Reseau de Reference des Antilles Francaises 1991,geodetic,7030,8901
+6641|IGN53 Mare,geodetic,7022,8901
+6642|ST84 Ile des Pins,geodetic,7022,8901
+6643|ST71 Belep,geodetic,7022,8901
+6644|NEA74 Noumea,geodetic,7022,8901
+6645|Reseau Geodesique Nouvelle Caledonie 1991,geodetic,7022,8901
+6646|Grand Comoros,geodetic,7022,8901
+6647|International Terrestrial Reference Frame 1988,dynamic geodetic,7019,8901
+6648|International Terrestrial Reference Frame 1989,dynamic geodetic,7019,8901
+6649|International Terrestrial Reference Frame 1990,dynamic geodetic,7019,8901
+6650|International Terrestrial Reference Frame 1991,dynamic geodetic,7019,8901
+6651|International Terrestrial Reference Frame 1992,dynamic geodetic,7019,8901
+6652|International Terrestrial Reference Frame 1993,dynamic geodetic,7019,8901
+6653|International Terrestrial Reference Frame 1994,dynamic geodetic,7019,8901
+6654|International Terrestrial Reference Frame 1996,dynamic geodetic,7019,8901
+6655|International Terrestrial Reference Frame 1997,dynamic geodetic,7019,8901
+6656|International Terrestrial Reference Frame 2000,dynamic geodetic,7019,8901
+6657|Reykjavik 1900,geodetic,7051,8901
+6658|Hjorsey 1955,geodetic,7022,8901
+6659|Islands Net 1993,geodetic,7019,8901
+6660|Helle 1954,geodetic,7022,8901
+6661|Latvia 1992,geodetic,7019,8901
+6663|Porto Santo 1995,geodetic,7022,8901
+6664|Azores Oriental Islands 1995,geodetic,7022,8901
+6665|Azores Central Islands 1995,geodetic,7022,8901
+6666|Lisbon 1890,geodetic,7004,8901
+6667|Iraq-Kuwait Boundary Datum 1992,geodetic,7030,8901
+6668|European Datum 1979,geodetic,7022,8901
+6670|Istituto Geografico Militaire 1995,geodetic,7030,8901
+6671|Voirol 1879,geodetic,7011,8901
+6672|Chatham Islands Datum 1971,geodetic,7022,8901
+6673|Chatham Islands Datum 1979,geodetic,7022,8901
+6674|Sistema de Referencia Geocentrico para las AmericaS 2000,geodetic,7019,8901
+6675|Guam 1963,geodetic,7008,8901
+6676|Vientiane 1982,geodetic,7024,8901
+6677|Lao 1993,geodetic,7024,8901
+6678|Lao National Datum 1997,geodetic,7024,8901
+6679|Jouik 1961,geodetic,7012,8901
+6680|Nouakchott 1965,geodetic,7012,8901
+6681|Mauritania 1999,geodetic,7012,8901
+6682|Gulshan 303,geodetic,7015,8901
+6683|Philippine Reference System 1992,geodetic,7008,8901
+6684|Gan 1970,geodetic,7022,8901
+6685|Gandajika,geodetic,7022,8901
+6686|Marco Geocentrico Nacional de Referencia,geodetic,7019,8901
+6687|Reseau Geodesique de la Polynesie Francaise,geodetic,7019,8901
+6688|Fatu Iva 72,geodetic,7022,8901
+6689|IGN63 Hiva Oa,geodetic,7022,8901
+6690|Tahiti 79,geodetic,7022,8901
+6691|Moorea 87,geodetic,7022,8901
+6692|Maupiti 83,geodetic,7022,8901
+6693|Nakhl-e Ghanem,geodetic,7030,8901
+6694|Posiciones Geodesicas Argentinas 1994,geodetic,7030,8901
+6695|Katanga 1955,geodetic,7008,8901
+6696|Kasai 1953,geodetic,7012,8901
+6697|IGC 1962 Arc of the 6th Parallel South,geodetic,7012,8901
+6698|IGN 1962 Kerguelen,geodetic,7022,8901
+6699|Le Pouce 1934,geodetic,7012,8901
+6700|IGN Astro 1960,geodetic,7012,8901
+6701|Institut Geographique du Congo Belge 1955,geodetic,7012,8901
+6702|Mauritania 1999,geodetic,7019,8901
+6703|Missao Hidrografico Angola y Sao Tome 1951,geodetic,7012,8901
+6704|Mhast (onshore),geodetic,7022,8901
+6705|Mhast (offshore),geodetic,7022,8901
+6706|Egypt Gulf of Suez S-650 TL,geodetic,7020,8901
+6707|Tern Island 1961,geodetic,7022,8901
+6708|Cocos Islands 1965,geodetic,7003,8901
+6709|Iwo Jima 1945,geodetic,7022,8901
+6710|Astro DOS 71,geodetic,7022,8901
+6711|Marcus Island 1952,geodetic,7022,8901
+6712|Ascension Island 1958,geodetic,7022,8901
+6713|Ayabelle Lighthouse,geodetic,7012,8901
+6714|Bellevue,geodetic,7022,8901
+6715|Camp Area Astro,geodetic,7022,8901
+6716|Phoenix Islands 1966,geodetic,7022,8901
+6717|Cape Canaveral,geodetic,7008,8901
+6718|Solomon 1968,geodetic,7022,8901
+6719|Easter Island 1967,geodetic,7022,8901
+6720|Fiji Geodetic Datum 1986,geodetic,7043,8901
+6721|Fiji 1956,geodetic,7022,8901
+6722|South Georgia 1968,geodetic,7022,8901
+6723|Grand Cayman Geodetic Datum 1959,geodetic,7008,8901
+6724|Diego Garcia 1969,geodetic,7022,8901
+6725|Johnston Island 1961,geodetic,7022,8901
+6726|Sister Islands Geodetic Datum 1961,geodetic,7008,8901
+6727|Midway 1961,geodetic,7022,8901
+6728|Pico de las Nieves 1984,geodetic,7022,8901
+6729|Pitcairn 1967,geodetic,7022,8901
+6730|Santo 1965,geodetic,7022,8901
+6731|Viti Levu 1916,geodetic,7012,8901
+6732|Marshall Islands 1960,geodetic,7053,8901
+6733|Wake Island 1952,geodetic,7022,8901
+6734|Tristan 1968,geodetic,7022,8901
+6735|Kusaie 1951,geodetic,7022,8901
+6736|Deception Island,geodetic,7012,8901
+6737|Geocentric datum of Korea,geodetic,7019,8901
+6738|Hong Kong 1963,geodetic,7007,8901
+6739|Hong Kong 1963(67),geodetic,7022,8901
+6740|Parametry Zemli 1990,dynamic geodetic,7054,8901
+6741|Faroe Datum 1954,geodetic,7022,8901
+6742|Geodetic Datum of Malaysia 2000,geodetic,7019,8901
+6743|Karbala 1979,geodetic,7012,8901
+6744|Nahrwan 1934,geodetic,7012,8901
+6745|Rauenberg Datum/83,geodetic,7004,8901
+6746|Potsdam Datum/83,geodetic,7004,8901
+6747|Greenland 1996,geodetic,7019,8901
+6748|Vanua Levu 1915,geodetic,7055,8901
+6749|Reseau Geodesique de Nouvelle Caledonie 91-93,geodetic,7019,8901
+6750|ST87 Ouvea,geodetic,7030,8901
+6751|Kertau (RSO),geodetic,7056,8901
+6752|Viti Levu 1912,geodetic,7055,8901
+6753|fk89,geodetic,7022,8901
+6754|Libyan Geodetic Datum 2006,geodetic,7022,8901
+6755|Datum Geodesi Nasional 1995,geodetic,7030,8901
+6756|Vietnam 2000,geodetic,7030,8901
+6757|SVY21,geodetic,7030,8901
+6758|Jamaica 2001,geodetic,7030,8901
+6759|NAD83 (National Spatial Reference System 2007),geodetic,7019,8901
+6760|World Geodetic System 1966,dynamic geodetic,7025,8901
+6761|Croatian Terrestrial Reference System,geodetic,7019,8901
+6762|Bermuda 2000,geodetic,7030,8901
+6763|Pitcairn 2006,geodetic,7030,8901
+6764|Ross Sea Region Geodetic Datum 2000,geodetic,7019,8901
+6765|Slovenia Geodetic Datum 1996,geodetic,7019,8901
+6801|CH1903 (Bern),geodetic,7004,8907
+6802|Bogota 1975 (Bogota),geodetic,7022,8904
+6803|Lisbon 1937 (Lisbon),geodetic,7022,8902
+6804|Makassar (Jakarta),geodetic,7004,8908
+6805|Militar-Geographische Institut (Ferro),geodetic,7004,8909
+6806|Monte Mario (Rome),geodetic,7022,8906
+6807|Nouvelle Triangulation Francaise (Paris),geodetic,7011,8903
+6808|Padang 1884 (Jakarta),geodetic,7004,8908
+6809|Reseau National Belge 1950 (Brussels),geodetic,7022,8910
+6810|Tananarive 1925 (Paris),geodetic,7022,8903
+6811|Voirol 1875 (Paris),geodetic,7011,8903
+6813|Batavia (Jakarta),geodetic,7004,8908
+6814|Stockholm 1938 (Stockholm),geodetic,7004,8911
+6815|Greek (Athens),geodetic,7004,8912
+6816|Carthage (Paris),geodetic,7011,8903
+6817|NGO 1948 (Oslo),geodetic,7005,8913
+6818|System of the Unified Trigonometrical Cadastral Network (Ferro),geodetic,7004,8909
+6819|Nord Sahara 1959 (Paris),geodetic,7012,8903
+6820|Gunung Segara (Jakarta),geodetic,7004,8908
+6821|Voirol 1879 (Paris),geodetic,7011,8903
+6896|International Terrestrial Reference Frame 2005,dynamic geodetic,7019,8901
+6901|Ancienne Triangulation Francaise (Paris),geodetic,7027,8914
+6902|Nord de Guerre (Paris),geodetic,7027,8903
+6903|Madrid 1870 (Madrid),geodetic,7028,8905
+6904|Lisbon 1890 (Lisbon),geodetic,7004,8902
+9300|Astra Minas,engineering,0,0
+9301|Barcelona,engineering,0,0
+9302|Maturin,engineering,0,0
+9303|Maracaibo Cross,engineering,0,0
+9304|La Rosa,engineering,0,0
+9305|Mene Grande,engineering,0,0
+9306|El Cubo,engineering,0,0
+9307|Dabajuro,engineering,0,0
+9308|Tucupita,engineering,0,0
+9309|El Mene,engineering,0,0
+9310|Santa Maria de Ipire,engineering,0,0
+9311|Barinas west base,engineering,0,0
+9312|EPSG example  X,engineering,0,0
+9313|EPSG example Platform Y,engineering,0,0
+9314|Tombak LNG plant,engineering,0,0
+9315|EPSG example datum for local bin grid,engineering,0,0

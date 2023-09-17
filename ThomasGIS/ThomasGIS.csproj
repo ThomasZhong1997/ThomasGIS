@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="3DModel\Resource\" />
+    <Folder Include="BaseConfiguration\" />
+    <Folder Include="DataManagement\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="SpatialAnalysis\Interpolation\" />
+    <Folder Include="TextParser\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="iGeospatial.Coordinates">
+      <HintPath>External\iGeospatial.Coordinates.dll</HintPath>
+    </Reference>
+    <Reference Include="iGeospatial.Core">
+      <HintPath>External\iGeospatial.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="iGeospatial.Geometries">
+      <HintPath>External\iGeospatial.Geometries.dll</HintPath>
+    </Reference>
+    <Reference Include="iGeospatial.Resources">
+      <HintPath>External\iGeospatial.Resources.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
