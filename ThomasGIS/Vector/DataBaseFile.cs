@@ -317,7 +317,7 @@ namespace ThomasGIS.Vector
                     // 如果fieldPrecision是0，表示是整形
                     if (fieldPrecision == 0)
                     {
-                        long insertData = Convert.ToInt32(value);
+                        long insertData = Convert.ToInt64(value);
                         string insertDataStr = insertData.ToString();
                         byte[] insertDataStream = Encoding.GetEncoding(shpEncodingType).GetBytes(insertDataStr);
                         for (int i = 0; i < Math.Min(originValue.Length, insertDataStream.Length); i++)
@@ -573,8 +573,9 @@ namespace ThomasGIS.Vector
                 for (int i = 0; i < RecordNumber; i++)
                 {
                     dbfWriter.Write(RawData[i]["deleteFlag"], 0, 1);
-                    foreach (var key in FieldLength.Keys)
+                    for (int j = 0; j < Fields.Count; j++)
                     {
+                        string key = Encoding.GetEncoding(shpEncodingType).GetString(Fields[i].Name).TrimEnd('\0');
                         byte[] data = RawData[i][key];
                         int length = FieldLength[key];
                         dbfWriter.Write(data, 0, length);

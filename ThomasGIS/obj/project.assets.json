@@ -222,11 +222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitRepository\\thomas-gis\\ThomasGIS\\ThomasGIS.csproj",
+      "projectUniqueName": "D:\\GitRepository\\ThomasGIS\\ThomasGIS\\ThomasGIS.csproj",
       "projectName": "ThomasGIS",
-      "projectPath": "E:\\GitRepository\\thomas-gis\\ThomasGIS\\ThomasGIS.csproj",
+      "projectPath": "D:\\GitRepository\\ThomasGIS\\ThomasGIS\\ThomasGIS.csproj",
       "packagesPath": "C:\\Users\\alloc\\.nuget\\packages\\",
-      "outputPath": "E:\\GitRepository\\thomas-gis\\ThomasGIS\\obj\\",
+      "outputPath": "D:\\GitRepository\\ThomasGIS\\ThomasGIS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

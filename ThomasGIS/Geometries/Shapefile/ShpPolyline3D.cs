@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using ThomasGIS.DataManagement;
 using ThomasGIS.Helpers;
 using ThomasGIS.Vector;
 
@@ -50,6 +51,62 @@ namespace ThomasGIS.Geometries.Shapefile
             }
 
             GetBoundaryBox();
+        }
+
+        public ShpPolyline3D(byte[] wkb)
+        {
+            byte byteOrder = wkb[0];
+
+            ByteArrayReader wkbReader;
+            if ((!BitConverter.IsLittleEndian && byteOrder == 0) || (BitConverter.IsLittleEndian && byteOrder == 1))
+            {
+                wkbReader = new ByteArrayReader(wkb, false);
+            }
+            else
+            {
+                wkbReader = new ByteArrayReader(wkb, true);
+            }
+
+            byteOrder = wkbReader.ReadByte();
+            uint geometryType = wkbReader.ReadUInt();
+            uint geometryNumber = wkbReader.ReadUInt();
+
+            if (geometryType == 0x80000002)
+            {
+                PartList.Add(0);
+                for (int i = 0; i < geometryNumber; ++i)
+                {
+                    double X = wkbReader.ReadDouble();
+                    double Y = wkbReader.ReadDouble();
+                    double Z = wkbReader.ReadDouble();
+                    PointList.Add(new Point(X, Y));
+                    ZList.Add(Z);
+                    MList.Add(0);
+                }
+            }
+
+            if (geometryType == 0x80000005)
+            {
+                for (int i = 0; i < geometryNumber; ++i)
+                {
+                    byteOrder = wkbReader.ReadByte();
+                    geometryType = wkbReader.ReadUInt();
+                    uint pointNumber = wkbReader.ReadUInt();
+
+                    if (geometryType != 0x80000002) throw new Exception("Error Occurred When Construct ShpPolyline3D: WKB Error!");
+
+                    PartList.Add(PointNumber);
+                    for (int j = 0; j < pointNumber; ++j)
+                    {
+                        double X = wkbReader.ReadDouble();
+                        double Y = wkbReader.ReadDouble();
+                        double Z = wkbReader.ReadDouble();
+                        PointList.Add(new Point(X, Y));
+                        ZList.Add(Z);
+                        MList.Add(0);
+                    }
+                }
+            }
         }
 
         public bool Import(ShpPolyline originPolyline, double startHeight, double endHeight)

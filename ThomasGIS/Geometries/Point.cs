@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ThomasGIS.Vector;
+using ThomasGIS.DataManagement;
 
 namespace ThomasGIS.Geometries
 {
@@ -77,6 +78,33 @@ namespace ThomasGIS.Geometries
                 exception.ToString();
                 throw new Exception("WKT字符串错误");
             }
+        }
+
+        public Point(byte[] wkb)
+        {
+            byte byteOrder = wkb[0];
+
+            ByteArrayReader wkbReader;
+            if ((!BitConverter.IsLittleEndian && byteOrder == 0) || (BitConverter.IsLittleEndian && byteOrder == 1))
+            {
+                wkbReader = new ByteArrayReader(wkb, false);
+            }
+            else
+            {
+                wkbReader = new ByteArrayReader(wkb, true);
+            }
+
+            byteOrder= wkbReader.ReadByte();
+            uint geometryType = wkbReader.ReadUInt();
+            uint geometryNumber = wkbReader.ReadUInt();
+
+            if (geometryType != 0x00000001)
+            {
+                throw new Exception("Error Point WKB Byte Array! Please Check!");
+            }
+
+            X = wkbReader.ReadDouble();
+            Y = wkbReader.ReadDouble();
         }
 
         public Point(Point point)

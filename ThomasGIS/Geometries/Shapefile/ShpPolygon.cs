@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using ThomasGIS.Coordinates;
+using ThomasGIS.DataManagement;
 using ThomasGIS.Geometries.Shapefile;
 using ThomasGIS.Helpers;
 using ThomasGIS.Vector;
@@ -135,6 +137,64 @@ namespace ThomasGIS.Geometries.Shapefile
             }
 
             BoundaryBox = GetBoundaryBox();
+        }
+
+        public ShpPolygon(byte[] wkb)
+        {
+            byte byteOrder = wkb[0];
+
+            ByteArrayReader wkbReader;
+            if ((!BitConverter.IsLittleEndian && byteOrder == 0) || (BitConverter.IsLittleEndian && byteOrder == 1))
+            {
+                wkbReader = new ByteArrayReader(wkb, false);
+            }
+            else
+            {
+                wkbReader = new ByteArrayReader(wkb, true);
+            }
+
+            byteOrder = wkbReader.ReadByte();
+            uint geometryType = wkbReader.ReadUInt();
+            uint geometryNumber = wkbReader.ReadUInt();
+
+            if (geometryType == 0x00000003)
+            {
+                for (int i = 0; i < geometryNumber; ++i)
+                {
+                    PartList.Add(PointNumber);
+                    uint pointNumber = wkbReader.ReadUInt();
+                    for (int j = 0; j < pointNumber; ++j)
+                    {
+                        double X = wkbReader.ReadDouble();
+                        double Y = wkbReader.ReadDouble();
+                        PointList.Add(new Point(X, Y));
+                    }
+                }
+            }
+
+            if (geometryType == 0x00000006)
+            {
+                for (int i = 0; i < geometryNumber; ++i)
+                {
+                    byteOrder = wkbReader.ReadByte();
+                    geometryType = wkbReader.ReadUInt();
+                    uint ringNumber = wkbReader.ReadUInt();
+
+                    if (geometryType != 0x00000003) throw new Exception("Error Occurred When Construct ShpPolygon: WKB Error!");
+
+                    for (int j = 0; j < ringNumber; ++j)
+                    {
+                        PartList.Add(PointNumber);
+                        uint pointNumber = wkbReader.ReadUInt();
+                        for (int k = 0; k < pointNumber; ++k)
+                        {
+                            double X = wkbReader.ReadDouble();
+                            double Y = wkbReader.ReadDouble();
+                            PointList.Add(new Point(X, Y));
+                        }
+                    }
+                }
+            }
         }
 
         public ShpPolygon(ShpPolygon clone)
